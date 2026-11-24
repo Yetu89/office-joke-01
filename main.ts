@@ -1,6 +1,9 @@
 // One-Line Office Joke: 24-Hour Sprint — make.fun bounty entry.
 // Grok (grok-4.3) ranked this line the winner (B, 9/10): a sharp extension
 // of the email-meeting trope with the specific Final_FINAL_v7 detail.
+// The joke escalates the familiar setup in two beats — more meetings, then
+// the versioned spreadsheet — so the punchline lands on a detail every
+// office worker recognises at once.
 //
 // Writes the single-line joke to /output/entry.txt (or $OUTPUT_DIR).
 
